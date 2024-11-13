@@ -1,4 +1,3 @@
 ## TakeTen
 
 Projeto Global Solution
--->
